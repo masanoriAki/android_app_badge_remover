@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_app_badger: ^1.4.0
   android_app_badge_remover:
     # When depending on this package from a real application you should use:
     #   android_app_badge_remover: ^x.y.z
